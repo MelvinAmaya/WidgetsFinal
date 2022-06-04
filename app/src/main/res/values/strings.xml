@@ -2,5 +2,9 @@
     <string name="app_name">WidgetsFinal</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
+    <string name="nombre">Melvin Josué Pereira Amaya</string>
+    <string name="canva">Canvas</string>
+    <string name="nota">Notas</string>
+    <string name="ugb">Plataformas UGB</string>
     <string name="app_widget_description">This is an app widget description</string>
 </resources>
