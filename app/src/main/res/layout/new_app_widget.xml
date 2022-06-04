@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.WidgetsFinal.AppWidgetContainer">
+
+    <Button
+        android:id="@+id/btnNota"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="notas" />
+
+    <Button
+        android:id="@+id/btnCan"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="canvas" />
+</RelativeLayout>
